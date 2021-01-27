@@ -405,6 +405,7 @@ Abre esta página web con cualquier navegador o directamente en VS Code con la e
 This is an HTML embed Simulation
 
 <div>
+<html>
 <meta http-equiv='Content-Type' content='text/html;charset=utf-8'></meta>
 <link rel='stylesheet' type='text/css' href='./x3dom/x3dom.css'></link>
 <script type='text/javascript' src='./x3dom/x3dom.js'></script>
@@ -806,4 +807,4 @@ This is an HTML embed Simulation
 <appearance>
 <material diffuseColor='1 0 0' emissiveColor='1 0 0'></material></appearance>
 <indexedLineSet coordIndex='0 1 2 -1'>
-<coordinate point='84.6937 531.719 935.605 84.8167 532.173 937.044 84.3212 532.593 937.616'></coordinate></indexedLineSet></shape></scene></x3d></body></div>
+<coordinate point='84.6937 531.719 935.605 84.8167 532.173 937.044 84.3212 532.593 937.616'></coordinate></indexedLineSet></shape></scene></x3d></body></div></html>
