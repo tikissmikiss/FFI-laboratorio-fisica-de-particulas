@@ -406,8 +406,8 @@ This is an HTML embed Simulation
 
 <div>
 <meta http-equiv='Content-Type' content='text/html;charset=utf-8'></meta>
-<link rel='stylesheet' type='text/css' href='http://www.x3dom.org/x3dom/release/x3dom.css'></link>
-<script type='text/javascript' src='http://www.x3dom.org/x3dom/release/x3dom.js'></script>
+<link rel='stylesheet' type='text/css' href='./x3dom/x3dom.css'></link>
+<script type='text/javascript' src='./x3dom/x3dom.js'></script>
 <body bgcolor='000'>
 <x3d id='someUniqueId' showStat='false' showLog='false' x='0px' y='0px' width='1' height='1'>
 <scene DEF='scene'>
