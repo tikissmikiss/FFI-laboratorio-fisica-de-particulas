@@ -1,4 +1,4 @@
-<!-- title: Laboratorio de física de partículas -->
+<!-- title: Laboratorio_de_fisica_de_particulas -->
 
 <!-- markdownlint-disable MD033 -->
 
